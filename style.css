@@ -12,3 +12,7 @@
     border-radius: 10px;
     border: 3px solid red;
 }
+.img-work img{
+    width: 200px;
+    height: 250px;
+}
